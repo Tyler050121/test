@@ -18,6 +18,10 @@ class KeyPress:
                 print(2)
             case 'Ctrl+3':
                 print(3)
+            case 'Ctrl+4':
+                print(4)
+            case 'Ctrl+5':
+                print(5)
 
     KeyboardActions={'Ctrl+1','Ctrl+2','Ctrl+3','Ctrl+4','Ctrl+5','Ctrl+6','Ctrl+7','Ctrl+8','Ctrl+9'}
     for item in KeyboardActions:
